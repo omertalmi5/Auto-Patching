@@ -54,8 +54,8 @@ Experiments were conducted to compare the performance of Auto Patch with the bas
 
 | Method               | Accuracy (%) |
 |----------------------|--------------|
-| Baseline (LLaMA 2)   | 17.18        |
-| Chain-of-Thought     | 32.09        |
-| Auto Patch (Ours)    | 23.70        |
+| Baseline (LLaMA 2)   | 18.45        |
+| Chain-of-Thought     | 27.44        |
+| Auto Patch (Ours)    | 23.63        |
 
 The Auto Patch method significantly outperformed the baseline, demonstrating its effectiveness in enhancing multi-hop reasoning.
